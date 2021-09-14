@@ -21,6 +21,7 @@ categories: automaton-tower
 
 ![裝置](/assets/images/automaton-tower/devices.png)
 
+<br>
 <h2>裝置：</h2><br>
 
 因為前面那樣配，<br><br>
@@ -30,6 +31,7 @@ categories: automaton-tower
 
 ![傷害](/assets/images/automaton-tower/damage.png)
 
+<br>
 <h2>打法：</h2><br>
 
 要注意的大概只有優先打敵人的補師而已，<br><br>
