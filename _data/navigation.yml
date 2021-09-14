@@ -1,0 +1,6 @@
+- name: 首頁
+  link: /
+- name: 老ㄙ
+  link: /about
+- name: 網誌
+  link: /blog.html
